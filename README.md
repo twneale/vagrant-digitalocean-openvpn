@@ -23,7 +23,7 @@ Then start the droplet with vagrant:
 Ssh into the droplet:
 
 ```bash
-$ vagrant ssh
+    $ vagrant ssh
 ```
 
 And follow the instructions to install OpenVPN: https://www.digitalocean.com/community/tutorials/how-to-install-openvpn-access-server-on-ubuntu-12-04
